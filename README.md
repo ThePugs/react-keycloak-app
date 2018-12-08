@@ -1,3 +1,7 @@
+# React Keycloak Demo App
+
+This is a demo Front-End app for the Pugs. It requires a running instance of [keycloak-service](https://github.com/ThePugs/keycloak-service) on localhost:8080.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
